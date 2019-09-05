@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LongDestinationDeck
+comment0.text=\r\n\ Long\ destination\ deck\ class\ for\ the\ destination\ cards\ \r\n\r\n\ @author\ Kaley,\ Tyler,\ Ben,\ Zach,\ Sean\r\n\ @version\ 4/29/18\r\n
+comment1.params=
+comment1.target=LongDestinationDeck()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ \r\n\ LONGDestinationDeck\r\n
+comment2.params=
+comment2.target=DestinationCard\ pullCard()
+comment2.text=\r\n\ method\ involving\ removing\ a\ card\ from\ the\ deck\r\n\ \r\n\ @return\ the\ destination\ card\ that\ is\ removed\r\n
+comment3.params=d
+comment3.target=void\ putCardOnBottom(DestinationCard)
+comment3.text=\r\n\ method\ that\ adds\ a\ card\ to\ the\ deck\r\n\ \r\n\ @param\ the\ card\ that\ is\ \r\n\ \ \ \ \ \ added\ to\ the\ deck\r\n
+numComments=4

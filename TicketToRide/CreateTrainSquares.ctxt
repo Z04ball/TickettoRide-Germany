@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CreateTrainSquares
+comment0.text=\r\n\ creates\ train\ square\ objects\ for\ \r\n\ drawing\ each\ rectangle\ when\ a\r\n\ route\ is\ captured\r\n\r\n\ @author\ Kaley,\ Tyler,\ Ben,\ Zach,\ Sean\r\n\ @version\ 4/29/18\r\n
+comment1.params=x1\ y1\ x2\ y2\ x3\ y3\ x4\ y4
+comment1.target=CreateTrainSquares(int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ creates\ each\ train\ square\ on\ the\ board\ \r\n\ \r\n\ @param\ x1\ the\ first\ corner's\ x\ coord\r\n\ @param\ y1\ the\ first\ corner's\ y\ coord\r\n\ @param\ x2\ the\ second\ corner's\ x\ coord\r\n\ @param\ y2\ the\ second\ corner's\ y\ coord\r\n\ @param\ x3\ the\ third\ corner's\ x\ coord\r\n\ @param\ y3\ the\ third\ corner's\ y\ coord\r\n\ @param\ x4\ the\ fourth\ corner's\ x\ coord\r\n\ @param\ y4\ the\ fourth\ corner's\ y\ coord\r\n
+numComments=2

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Meeples
+comment0.text=\r\n\ Enumeration\ class\ Meeples\ -\ represents\ a\ Meeple\r\n\r\n\ @author\ Ben,\ Zach,\ Tyler,\ Kaley,\ Sean\r\n\ @version\ 4/28/18\r\n
+comment1.params=
+comment1.target=Meeples()
+comment2.params=
+comment2.target=void\ shuffleMeeple()
+comment2.text=\r\n\ Adds\ meeples\ to\ above\ arraylist,\ \r\n\ then\ shuffles\ them\ to\ be\ placed.\r\n
+comment3.params=
+comment3.target=Meeples\ getMeeple()
+comment3.text=\r\n\ Removes\ a\ meeple\ from\ the\ \r\n\ list\ to\ be\ placed.\r\n\ \r\n\ @return\ Meeples\ meeples\ to\ be\ removed\r\n
+numComments=4

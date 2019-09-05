@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CreateTrainObjects
+comment0.text=\r\n\ Creates\ arraylists\ for\ each\ path\r\n\ adds\ this\ path\ to\ a\ hashmap\ with\ the\ \r\n\ name\ of\ the\ 2\ cities\ as\ a\ string\ value\r\n\r\n\ @author\ Kaley,\ Ben,\ Tyler,\ Zach,\ Sean\r\n\ @version\ 4/29/18\r\n
+comment1.params=
+comment1.target=CreateTrainObjects()
+comment1.text=\r\n\ CreateTrainObjects\ constructor\ to\ create\r\n\ each\ cities\ train\ route,\ and\ put\ it\r\n\ into\ an\ arraylist,\ and\ then\ put\ that\ into\r\n\ a\ hash\ map\ for\ access\ with\ a\ String\ value\r\n
+comment2.params=
+comment2.target=java.util.HashMap\ getMap()
+comment2.text=\r\n\ Gets\ the\ hashmap\ of\ the\ trainsquares\r\n\ @return\ HashMap\ the\ hash\ map\ of\ the\ train\ squares\r\n
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TrainColor
+comment0.text=\r\n\ Enum\ for\ the\ color\ of\ the\ trains\ on\ the\ cards\r\n\r\n\ @author\ Kaley,\ Tyler,\ Ben,\ Zach,\ Sean\r\n\ @version\ 4/28/18\r\n
+comment1.params=
+comment1.target=TrainColor\ createColor()
+comment1.text=\r\n\ Simulates\ drawing\ a\ random\ color\r\n
+numComments=2

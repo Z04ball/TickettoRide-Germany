@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=DestinationCard
+comment0.text=\r\n\ Class\ that\ will\ create\ the\ destination\ card\r\n\r\n\ @author\ Kaley,\ Tyler,\ Ben,\ Zach,\ Sean\r\n\ @version\ 4/29/18\r\n
+comment1.params=start\ end\ type\ value
+comment1.target=DestinationCard(Destination,\ Destination,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ to\ create\ a\ destination\ card\r\n\ \r\n\ @param\ start\ the\ starting\ city\r\n\ @param\ end\ the\ ending\ city\r\n\ @param\ type\ either\ long\ or\ short\r\n\ @param\ value\ the\ value\ of\ the\ city\r\n
+comment2.params=
+comment2.target=Destination\ getStart()
+comment2.text=\r\n\ gets\ the\ starting\ destination\r\n\ \r\n\ @return\ the\ starting\ destination\r\n
+comment3.params=
+comment3.target=Destination\ getEnd()
+comment3.text=\r\n\ gets\ the\ ending\ destination\r\n\ \r\n\ @return\ the\ ending\ destination\r\n
+comment4.params=
+comment4.target=java.lang.String\ getType()
+comment4.text=\r\n\ gets\ the\ type\r\n\ \r\n\ @return\ string\ telling\ \r\n\ if\ it\ is\ long\ or\ short\r\n
+comment5.params=
+comment5.target=int\ getValue()
+comment5.text=\r\n\ gets\ the\ value\ at\ the\ point\r\n\ \r\n\ @return\ the\ integer\ value\r\n
+comment6.params=p\ nodez
+comment6.target=LocationNode\ getNode(Destination,\ LocationNode[])
+numComments=7

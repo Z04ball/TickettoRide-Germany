@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=TrainCard
+comment0.text=\r\n\ Class\ that\ will\ create\ the\ train\ cards\r\n\r\n\ @author\ Kaley,\ Tyler,\ Ben,\ Zach,\ Sean\r\n\ @version\ 4/29/18\r\n
+comment1.params=color
+comment1.target=TrainCard(TrainColor)
+comment1.text=\r\n\ constructs\ the\ train\ cards\r\n\ \r\n\ @param\ color\ the\ color\ for\ the\ train\ card\r\n
+comment2.params=color
+comment2.target=java.lang.String\ getTrainColor(TrainColor)
+comment2.text=\r\n\ gets\ the\ String\ for\ the\ picture\ of\ the\ train\r\n\ \r\n\ @param\ color\ the\ color\ of\ the\ train\r\n\ @return\ the\ String\ of\ the\ trains\ file\ name\r\n\ \r\n
+comment3.params=s
+comment3.target=javax.swing.ImageIcon\ setImage(java.lang.String)
+comment3.text=\r\n\ sets\ the\ image\ to\ the\ given\ value\r\n\ \r\n\ @param\ s\ the\ image\ to\ use\r\n\ @return\ the\ image\ \r\n
+comment4.params=
+comment4.target=TrainColor\ getColor()
+comment4.text=\r\n\ gets\ the\ Train\ color\r\n\ \r\n\ @return\ the\ train\ color\r\n
+comment5.params=
+comment5.target=javax.swing.ImageIcon\ getImage()
+comment5.text=\r\n\ gets\ the\ image\ used\r\n\ \r\n\ @return\ the\ image\ being\ used\r\n
+numComments=6

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Germany
+comment0.text=\r\n\ creates\ nodes\ for\ each\ city\r\n\r\n\ @author\ Kaley,\ Tyler,\ Ben,\ Zach,\ Sean\r\n\ @version\ 4/29/18\r\n
+comment1.params=connections\ numOfPlayers
+comment1.target=Germany(boolean,\ int)
+comment1.text=\r\n\ Constructor\ which\ creates\ each\ node\r\n\ \r\n\ @param\ connections\ true\ if\ the\ city\ has\r\n\ connections\ \r\n\ false\ if\ no\ connections\ to\ other\ cities\r\n\ @param\ numOfPlayers\ keeps\ track\ of\ \r\n\ how\ many\ users\ are\ playing\r\n
+comment2.params=
+comment2.target=LocationNode[]\ getGermany()
+comment2.text=\r\n\ gets\ the\ locaation\ node\ array\ that\ is\ created\ above\r\n\ \r\n\ @return\ an\ array\ of\ location\ nodes\ \r\n
+numComments=3

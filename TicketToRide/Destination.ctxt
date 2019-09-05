@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Destination
+comment0.text=\r\n\ Each\ city\ point\ represented\ as\ an\ enum\r\n\r\n\ @author\ Kaley,\ Tyler,\ Ben,\ Zach,\ Sean\r\n\ @version\ 4/29/18\r\n
+comment1.params=x\ y\ numMeeples
+comment1.target=Destination(int,\ int,\ int)
+comment1.text=\r\n\ constructor\ for\ each\ destination\ (or\ city)\r\n\ \r\n\ @param\ x\ the\ x\ coordinate\r\n\ @\ param\ y\ the\ y\ coordinate\ \r\n\ @\ param\ meeple\ the\ number\ of\ meeples\ \r\n
+comment2.params=
+comment2.target=int\ getX()
+comment2.text=\r\n\ accessor\ method\ for\ x\ coordinate\ \r\n\ of\ the\ city\r\n\ \r\n\ @return\ the\ x\ coordinate\r\n
+comment3.params=
+comment3.target=int\ getY()
+comment3.text=\r\n\ accessor\ method\ for\ y\ coordinate\ \r\n\ of\ the\ city\r\n\ \r\n\ @return\ the\ y\ coordinate\r\n
+comment4.params=
+comment4.target=java.util.ArrayList\ getMeeples()
+comment4.text=\r\n\ accessor\ method\ for\ meeples\ of\ \r\n\ of\ the\ city\r\n\ \r\n\ @return\ the\ number\ of\ meeples\r\n
+comment5.params=
+comment5.target=int\ getMeeple()
+comment5.text=\r\n\ accessor\ method\ for\ meeples\ of\ \r\n\ of\ the\ city\r\n\ \r\n\ @return\ the\ number\ of\ meeples\r\n
+comment6.params=m
+comment6.target=void\ removeMeeple(Meeples)
+comment6.text=\r\n\ remove\ a\ meeple\r\n\ @param\ Meeple\ to\ remove\r\n
+numComments=7
